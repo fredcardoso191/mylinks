@@ -36,6 +36,8 @@ body {
 }
 .links h1 {
     font-size: 2rem;
+    font-weight: bold;
+    color: #564e88;
 }
 
 .links a, button {
