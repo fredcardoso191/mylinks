@@ -1,5 +1,5 @@
 let copyEmail = () => {
-    const email = "recco.fred01@hotmail.com";
+    const email = "recco.fred01@gmail.com";
     let inputTest = document.createElement("input");
     inputTest.value = email;
     document.body.appendChild(inputTest);
